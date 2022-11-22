@@ -1,21 +1,20 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="/logobranco-2x.png" className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Zcloud Sample React App
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://zcloud.ws"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          zcloud.ws
         </a>
       </header>
     </div>
